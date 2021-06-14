@@ -60,6 +60,6 @@ class MyApp extends StatelessWidget {
         "/carouselpages": (context) => CarouselPages(),
       },
     );
-    // test commit 
+    // flutter pub run easy_localization:generate -S "assets/language" -O "lib/language" -o "locale_keys.g.dart" -f keys
   }
 }
