@@ -11,7 +11,7 @@ class ConvexBarPages extends StatefulWidget {
   @override
   State<StatefulWidget> createState() => ConvexbarState();
 }
-
+// deneme
 class ConvexbarState extends State<ConvexBarPages> {
   int aktifOge = 1;
   gecerliSayfa(int aktif) {
